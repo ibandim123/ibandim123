@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there👋 Welcome and enjoy it!
 
 <!--
 **ibandim123/ibandim123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
