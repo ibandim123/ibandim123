@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... I'am student TI in UNINTER university, Technology and Digital Commerce it's my way
+- 🔭 I’m currently working at OTIMIZE IT... I'am student TI in UNINTER university, Technology and Digital Commerce it's my way
 - 🌱 I’m currently learning ... I currently learning Javascript, Java and Node 
 - 👯 I’m looking to collaborate on ... The community
 - 🤔 I’m looking for help with ... Node.JS technologies 
