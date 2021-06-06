@@ -3,11 +3,13 @@
 <!--
 **ibandim123/ibandim123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working at OTIMIZE IT... I'am student TI in UNINTER university, Technology and Digital Commerce it's my way
-- 🌱 I’m currently learning ... I currently learning Javascript, Java and Node 
-- 👯 I’m looking to collaborate on ... The community
-- 🤔 I’m looking for help with ... Node.JS technologies 
-- 📫 How to reach me: ... 	ibandim@outlook.com or https://www.linkedin.com/in/isaac-costa-67929716a/
+- 🇧🇷  I'am Brazilian, living in Petrolina - PE
+- 🔭 I'am student IT System and Development in UNINTER college, Technology and Robotic it's my way.
+- 💼 I’m currently working at OTIMIZE IT like intern; E-Commerce and App Development Company.
+- 📓 I’m currently learning Javascript, Node.JS, SaSS, React, Next.JS, French Language and Upgrade my english to advanced    
+-  ♠  I have experience in Wordpress plataform for E-Commerce, Javascript, HTML, CSS and Windows System. 
+- 💻 I’m looking to collaborate on The community in Stackoverflow, Github and Rocketseat discord Community;
+- 🤔 I’m looking for help with French language.
+- 📫 How to reach me: ... 	ibandim@outlook.com or https://www.linkedin.com/in/isaac-costa-67929716a/,
+- ✉ +55 (87) 99811-4913 
 
