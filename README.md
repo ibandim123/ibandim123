@@ -11,8 +11,7 @@
 - 💻 I’m looking to collaborate on The community in Stackoverflow, Github and Rocketseat discord Community;
 - 🤔 I’m looking for help with French language.
 - 📫 How to reach me: ... 	ibandim@outlook.com or https://www.linkedin.com/in/isaac-costa-67929716a/,
-- ![image](https://user-images.githubusercontent.com/59544620/120927434-28c13e80-c6b7-11eb-8776-e56000f1ad10.png)
- +55 (87) 99811-4913 
+- 📞 +55 (87) 99811-4913 
 
 <h4>  Technology and Robotic it's my way. </h4>
 
