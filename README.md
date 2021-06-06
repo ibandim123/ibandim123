@@ -4,7 +4,7 @@
 **ibandim123/ibandim123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🇧🇷  I'am Brazilian, living in Petrolina - PE
-- 🔭 I'am student IT System and Development in UNINTER college, Technology and Robotic it's my way.
+- 🔭 I'am student IT System and Development in UNINTER college.
 - 💼 I’m currently working at OTIMIZE IT like intern; E-Commerce and App Development Company.
 - 📓 I’m currently learning Javascript, Node.JS, SaSS, React, Next.JS, French Language and Upgrade my english to advanced    
 -  ♠  I have experience in Wordpress plataform for E-Commerce, Javascript, HTML, CSS and Windows System. 
@@ -12,4 +12,6 @@
 - 🤔 I’m looking for help with French language.
 - 📫 How to reach me: ... 	ibandim@outlook.com or https://www.linkedin.com/in/isaac-costa-67929716a/,
 - ✉ +55 (87) 99811-4913 
+
+<h4>  Technology and Robotic it's my way. </h4>
 
