@@ -5,7 +5,7 @@
 -->
 - 🇧🇷  I'am Brazilian, living in Petrolina - PE
 - 🔭 I'am student IT System and Development in UNINTER college.
-- 💼 I’m currently working at OTIMIZE IT like intern; E-Commerce and App Development Company.
+- 💼 I’m currently free.
 - 📓 I’m currently learning Javascript, Node.JS, SaSS, React, Next.JS, PHP, Python, French Language and Upgrade my english to advanced    
 -  ♠  I haved experience in Wordpress plataform for E-Commerce, Javascript, HTML, CSS and Windows System. 
 - 💻 I’m looking to collaborate on The community in Stackoverflow, Github and Rocketseat discord Community;
