@@ -1,7 +1,7 @@
 ## Hi, I am Isaac Bandim! Developer and IT Analyst. 
 <div align="center">
   <a href="https://github.com/ibandim123">
-  <img height="680rem" width="100%" src="isaac.png"/>
+  <img height="580rem" width="100%" src="isaac.png"/>
 </div>
 <div >
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibandim123&layout=compact&langs_count=7&theme=dark"/>  
