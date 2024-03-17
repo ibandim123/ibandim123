@@ -5,7 +5,7 @@
  </p>
  <ul>
    <h4>Technologies, Tools and Languages</h4>
-  <li>Languages: <code>Javascript</code> , <code>PHP</code>, <code>Java</code>, <code>C</code>,<code>Python</code> </li>
+  <li>Languages: <code>Javascript/Typescript</code> , <code>PHP</code>, <code>Java</code>, <code>C</code>,<code>Python</code> </li>
   <li>Frameworks and Libraries: Laravel, CodeIgniter, Symfhony, React.js, Django, Vue.js, JQuery </li>
   <li>tools: Sass (CSS pre-compiler), Docker...</li>
   <li>Technologies Application: Web System Technologie, IoT, Robotics</li>
