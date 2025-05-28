@@ -1,7 +1,7 @@
 ## Hi, I am Isaac Bandim! Developer and IT Analyst. 
 <hr>
  <p>
-  Software Developer experienced with tools and languages more used. I am using my github for personal projects, tests implementation and experience coding and some times helping community.  
+  Software Developer Generalist experienced with tools and languages more used. I am using my github for personal projects, tests implementation and experience coding and some times helping community.  
  </p>
  <ul>
    <h4>Technologies, Tools and Languages</h4>
