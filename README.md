@@ -1,14 +1,14 @@
 ## Hi, I am Isaac Bandim! Developer and IT Analyst. 
 <hr>
  <p>
-  Software Developer Generalist experienced with tools and languages more used. I am using my github for personal projects, tests implementation and experience coding and some times helping community.  
+  Generalist Software Developer experienced with widely used tools and programming languages. I use GitHub for personal projects, test implementations, experimenting with new technologies, and occasionally contributing to the community.
  </p>
  <ul>
    <h4>Technologies, Tools and Languages</h4>
   <li>Languages: <code>Javascript/Typescript</code> , <code>PHP</code>, <code>Java</code>, <code>C</code>,<code>Python</code> </li>
-  <li>Frameworks and Libraries: Laravel, CodeIgniter, Symfhony, React.js, Django, Vue.js, JQuery, Angular </li>
+  <li>Frameworks and Libraries experience: Laravel, CodeIgniter, Next.js, Symfhony, React.js, Django, Vue.js, JQuery, Angular </li>
   <li>tools: Sass (CSS pre-compiler), Docker...</li>
-  <li>Technologies Application: Web System Technology, Mobile, IoT, Robotics</li>
+  <li>Technologies Application: Web System Technology, Desktop, Mobile, IoT and Robotics</li>
   <li>Studying: AI, IoT, Robotics </li>
  </ul>
 <div> 
