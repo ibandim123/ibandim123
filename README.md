@@ -6,10 +6,11 @@
  <ul>
    <h4>Technologies, Tools and Languages</h4>
   <li>Languages: <code>Javascript/Typescript</code> , <code>PHP</code>, <code>Java</code>, <code>C</code>,<code>Python</code> </li>
-  <li>Frameworks and Libraries experience: Laravel, CodeIgniter, Next.js, Symfhony, React.js, Django, Vue.js, JQuery, Angular </li>
+  <li>Frameworks and Libraries experience: Angular,  React.js,  Vue.js,  Next.js, Laravel, CodeIgniter, Symfhony, Django, JQuery... and more. </li>
   <li>tools: Sass (CSS pre-compiler), Docker...</li>
   <li>Technologies Application: Web System Technology, Desktop, Mobile, IoT and Robotics</li>
-  <li>Studying: AI, IoT, Robotics </li>
+  <li>Studying: AI, IoT ( Microchip series, ESP32 series, Arduino Series), Robotics </li>
+  
  </ul>
 <div> 
  <a href="https://discord.gg/683864542693818422" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
