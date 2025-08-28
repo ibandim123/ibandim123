@@ -6,7 +6,7 @@
  <ul>
    <h4>Technologies, Tools and Languages</h4>
   <li>Languages: <code>Javascript/Typescript</code>, <code>Java</code>, <code>C/C++</code>,<code>Python</code> </li>
-  <li>Frameworks and Libraries experience: Angular,  React.js,  Vue.js,  Next.js, Laravel, CodeIgniter, Symfhony, Django, JQuery... and more. </li>
+  <li>Frameworks and Libraries experience: Angular,  React.js,  Vue.js,  Next.js... and more. </li>
   <li>tools: Sass (CSS pre-compiler), Docker...</li>
   <li>Technologies Application: Web System Technology, Desktop, Mobile, IoT and Robotics</li>
   <li>Studying: AI, IoT ( Microchip series, ESP32 series, Arduino Series), Robotics </li>
